@@ -1,1 +1,7 @@
-.DS_Store node_modules
+# Ignore for liri-node-app #
+
+# OS generations #
+.DS_Store
+
+# NPM modules #
+node_modules
