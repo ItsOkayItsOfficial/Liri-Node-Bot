@@ -2,3 +2,8 @@
 - - - - - - - - - - - - - - - - - - - - - - - - -- - - 
 Command: node hal.js -info undefined
 
+
+- - - - - - - - - - - - - - - - - - - - - - - - -- - - 
+Command: node hal.js sdlkfj undefined
+
+[1mHal: [22mInput not understood. Type "node hal.js -info" for more information.
