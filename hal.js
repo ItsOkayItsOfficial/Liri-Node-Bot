@@ -24,7 +24,7 @@ var op = input[2];
 var mod = input[3];
 var hal = chalk.bold('Hal: ');
 
-// Varia)ble - Initilize Twitter
+// Variable - Initilize Twitter
 var twitter = new twitter({
   consumer_key: tweetKey.consumer_key,
   consumer_secret: tweetKey.consumer_secret,
@@ -67,6 +67,9 @@ switch (op) {
     break;
   case '-clear':
     clearLogs();
+    break;
+  case '-print':
+    printLogs();
     break;
   default:
     logData(hal + 'Input not understood. Type "node hal.js -info" for more information.', 'red');
@@ -226,7 +229,16 @@ function getMovie() {
 
 // Function - Random choice from random.txt
 function halChoice() {
+  fs.readFile('random.txt', 'utf8', function (error, data) {
 
+    if (!error) {
+      var array = data.split(",");
+      getSong(array[2]);
+    } else {
+      console.log(error)
+    }
+
+  });
 };
 
 
@@ -260,6 +272,21 @@ function halInfo() {
   console.log("hal                     Hal's choice");
   console.log('');
 };
+
+
+// Function - Random choice from random.txt
+function printLogs() {
+  fs.readFile('log.txt', 'utf8', function (error, data) {
+
+    if (!error) {
+     console.log(data);
+    } else {
+      console.log(error)
+    }
+
+  });
+};
+
 
 // Function - Clear log file
 function clearLogs() {

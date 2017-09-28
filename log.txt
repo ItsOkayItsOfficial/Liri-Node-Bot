@@ -7,3 +7,322 @@ Command: node hal.js -info undefined
 Command: node hal.js sdlkfj undefined
 
 [1mHal: [22mInput not understood. Type "node hal.js -info" for more information.
+
+- - - - - - - - - - - - - - - - - - - - - - - - -- - - 
+Command: node hal.js -info undefined
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - -- - - 
+Command: node hal.js tweets undefined
+
+[1mHal: [22mHere are your most recent tweets.
+
+Tweeted on Mon Sep 04 23:13:59 +0000 2017
+     "Trying out @theTunnelBear so I can browse privately from my ISP https://t.co/JIZsOLhR48 https://t.co/6i9b8wEUI0."
+
+Tweeted on Tue Aug 08 00:57:42 +0000 2017
+     "@BergiesCoffee has become my second home for @UofA Coding Bootcamp"
+
+Tweeted on Sat Jul 15 03:57:35 +0000 2017
+     "YouTube vid title:'How to Make a Website Header Green'. YouTube vid reality: 30min ontological exposition on the nature of an HTML5 header."
+
+Tweeted on Wed Feb 04 17:45:13 +0000 2015
+     "Tweet tweet"
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - -- - - 
+Command: node hal.js spotify bad
+
+[1mHal: [22mInput not understood. Type "node hal.js -info" for more information.
+
+- - - - - - - - - - - - - - - - - - - - - - - - -- - - 
+Command: node hal.js song bad
+
+[1mHal: [22mSearching...
+[1mHal: [22mHere are some songs that match your search keyword.
+
+1) Bad Liar
+     Artist(s): Selena Gomez
+     Album: Bad Liar
+     Preview: null
+
+2) Bad At Love
+     Artist(s): Halsey
+     Album: hopeless fountain kingdom (Deluxe)
+     Preview: null
+
+3) Bad and Boujee (feat. Lil Uzi Vert)
+     Artist(s): Migos, Lil Uzi Vert
+     Album: Culture
+     Preview: https://p.scdn.co/mp3-preview/7692f502539573458844535e54f247643d2f7157?cid=21ff2fb0d1594b44b2759fdcdd60b77d
+
+4) Bad Business
+     Artist(s): 21 Savage
+     Album: Issa Album
+     Preview: https://p.scdn.co/mp3-preview/0c0011177cc1585072b1d8f6f3372b1a78268bf5?cid=21ff2fb0d1594b44b2759fdcdd60b77d
+
+5) Bad Business
+     Artist(s): 21 Savage
+     Album: Issa Album
+     Preview: https://p.scdn.co/mp3-preview/8dc19bc1b2a733925752f0f2d8c3c0617dcff468?cid=21ff2fb0d1594b44b2759fdcdd60b77d
+
+6) Bad Business
+     Artist(s): 21 Savage
+     Album: Issa Album
+     Preview: https://p.scdn.co/mp3-preview/8dc19bc1b2a733925752f0f2d8c3c0617dcff468?cid=21ff2fb0d1594b44b2759fdcdd60b77d
+
+7) Bad Things (with Camila Cabello)
+     Artist(s): Machine Gun Kelly, Camila Cabello
+     Album: bloom
+     Preview: null
+
+8) Bad Blood
+     Artist(s): Taylor Swift
+     Album: 1989
+     Preview: null
+
+9) Me Acostumbre (feat. Bad Bunny)
+     Artist(s): Arcangel, Bad Bunny
+     Album: Me Acostumbre (feat. Bad Bunny)
+     Preview: https://p.scdn.co/mp3-preview/da404d49e7668d426bfb9612713b284e374b227e?cid=21ff2fb0d1594b44b2759fdcdd60b77d
+
+10) Pompeii
+     Artist(s): Bastille
+     Album: Bad Blood
+     Preview: null
+
+11) Bad Bitch (feat. Ty Dolla $ign)
+     Artist(s): Bebe Rexha, Ty Dolla $ign
+     Album: All Your Fault: Pt. 1
+     Preview: https://p.scdn.co/mp3-preview/9284a8a94b8c16eff6a396fceb0c485fc7496b51?cid=21ff2fb0d1594b44b2759fdcdd60b77d
+
+12) Bad Intentions
+     Artist(s): Niykee Heaton, Migos, OG Parker
+     Album: The Bedroom Tour Playlist
+     Preview: null
+
+13) Bad Girlfriend
+     Artist(s): Theory of a Deadman
+     Album: Scars & Souvenirs [Special Edition 2009]
+     Preview: https://p.scdn.co/mp3-preview/8f876cd4d0c76ac4ca15a936d9919e76f39386ff?cid=21ff2fb0d1594b44b2759fdcdd60b77d
+
+14) Bad Romance
+     Artist(s): Lady Gaga
+     Album: The Fame Monster
+     Preview: null
+
+15) Umbrella
+     Artist(s): Rihanna, JAY Z
+     Album: Good Girl Gone Bad: Reloaded
+     Preview: null
+
+16) Bad Company
+     Artist(s): Five Finger Death Punch
+     Album: War Is the Answer
+     Preview: https://p.scdn.co/mp3-preview/c5f003381fb9810398a39b8146632fd98f24b41a?cid=21ff2fb0d1594b44b2759fdcdd60b77d
+
+17) Bad Moon Rising
+     Artist(s): Creedence Clearwater Revival
+     Album: Green River (40th Anniversary Edition)
+     Preview: null
+
+18) Soy Peor
+     Artist(s): Bad Bunny
+     Album: Soy Peor
+     Preview: https://p.scdn.co/mp3-preview/ed97dd1ed0e6fd9b6a05b69ffac60b2514f8364f?cid=21ff2fb0d1594b44b2759fdcdd60b77d
+
+19) Know No Better - Bad Bunny Remix
+     Artist(s): Major Lazer, Camila Cabello, Bad Bunny, Travis Scott, Quavo
+     Album: Know No Better (Bad Bunny Remix)
+     Preview: https://p.scdn.co/mp3-preview/db7ce5e77f4bd95efd551292b47ce009659e0e7a?cid=21ff2fb0d1594b44b2759fdcdd60b77d
+
+20) Bad and Boujee
+     Artist(s): William Singe
+     Album: Bad and Boujee
+     Preview: https://p.scdn.co/mp3-preview/4de512de128913e78fb926be1f24c116e0cc1593?cid=21ff2fb0d1594b44b2759fdcdd60b77d
+
+- - - - - - - - - - - - - - - - - - - - - - - - -- - - 
+Command: node hal.js undefined undefined
+
+[1mHal: [22mInput not understood. Type "node hal.js -info" for more information.
+
+- - - - - - - - - - - - - - - - - - - - - - - - -- - - 
+Command: node hal.js tweets undefined
+
+[1mHal: [22mHere are your most recent tweets.
+
+Tweeted on Mon Sep 04 23:13:59 +0000 2017
+     "Trying out @theTunnelBear so I can browse privately from my ISP https://t.co/JIZsOLhR48 https://t.co/6i9b8wEUI0."
+
+Tweeted on Tue Aug 08 00:57:42 +0000 2017
+     "@BergiesCoffee has become my second home for @UofA Coding Bootcamp"
+
+Tweeted on Sat Jul 15 03:57:35 +0000 2017
+     "YouTube vid title:'How to Make a Website Header Green'. YouTube vid reality: 30min ontological exposition on the nature of an HTML5 header."
+
+Tweeted on Wed Feb 04 17:45:13 +0000 2015
+     "Tweet tweet"
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - -- - - 
+Command: node hal.js hal undefined
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - -- - - 
+Command: node hal.js hal undefined
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - -- - - 
+Command: node hal.js hal undefined
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - -- - - 
+Command: node hal.js hal undefined
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - -- - - 
+Command: node hal.js hal undefined
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - -- - - 
+Command: node hal.js hal undefined
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - -- - - 
+Command: node hal.js hal undefined
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - -- - - 
+Command: node hal.js hal undefined
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - -- - - 
+Command: node hal.js hal undefined
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - -- - - 
+Command: node hal.js hal undefined
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - -- - - 
+Command: node hal.js hal undefined
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - -- - - 
+Command: node hal.js hal undefined
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - -- - - 
+Command: node hal.js hal undefined
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - -- - - 
+Command: node hal.js hal undefined
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - -- - - 
+Command: node hal.js hal undefined
+
+[1mHal: [22mI see you could not choose a song to search for.
+[1mHal: [22mMight I suggest some of Scandinavia's finest?
+[1mHal: [22mHere are some songs that match your search keyword.
+
+1) Sign of the Times
+     Artist(s): Harry Styles
+     Album: Sign of the Times
+     Preview: https://p.scdn.co/mp3-preview/9801b9239ad1b833f1317574ee55b9d7b8426ff1?cid=21ff2fb0d1594b44b2759fdcdd60b77d
+
+2) Love U Better (feat. Lil Wayne & The-Dream)
+     Artist(s): Ty Dolla $ign, Lil Wayne, The-Dream
+     Album: Love U Better (feat. Lil Wayne & The-Dream)
+     Preview: https://p.scdn.co/mp3-preview/9ef6e0e3e32b4220ac4ed1539ac1e4a47bf34d5d?cid=21ff2fb0d1594b44b2759fdcdd60b77d
+
+3) Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) - Remix
+     Artist(s): Ty Dolla $ign, DJ Mustard, Wiz Khalifa, The Weeknd
+     Album: Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) [Remix Version]
+     Preview: https://p.scdn.co/mp3-preview/70f126c139847335bc03c756c55b80c99892268e?cid=21ff2fb0d1594b44b2759fdcdd60b77d
+
+4) Sign of the Times
+     Artist(s): Harry Styles
+     Album: Harry Styles
+     Preview: https://p.scdn.co/mp3-preview/af237206f611b722f48620ece049aff3b8650e77?cid=21ff2fb0d1594b44b2759fdcdd60b77d
+
+5) Impatient
+     Artist(s): Jeremih, Ty Dolla $ign
+     Album: Late Nights: The Album
+     Preview: null
+
+6) The Sign
+     Artist(s): Ace of Base
+     Album: The Sign (US Album) [Remastered]
+     Preview: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=21ff2fb0d1594b44b2759fdcdd60b77d
+
+7) Cinderella (feat. Ty Dolla $ign)
+     Artist(s): Mac Miller, Ty Dolla $ign
+     Album: The Divine Feminine
+     Preview: https://p.scdn.co/mp3-preview/1f797d8ec6a6ca7dd84d9a6d496bc92748d24557?cid=21ff2fb0d1594b44b2759fdcdd60b77d
+
+8) Sucker For Pain (with Wiz Khalifa, Imagine Dragons, Logic & Ty Dolla $ign feat. X Ambassadors)
+     Artist(s): Lil Wayne, Wiz Khalifa, Imagine Dragons, X Ambassadors, Logic, Ty Dolla $ign
+     Album: Suicide Squad: The Album
+     Preview: https://p.scdn.co/mp3-preview/96f9689e58c4d6188cc269c0c2089036c3817a2e?cid=21ff2fb0d1594b44b2759fdcdd60b77d
+
+9) Shell Shocked (feat. Kill The Noise & Madsonik) - From "Teenage Mutant Ninja Turtles"
+     Artist(s): Juicy J, Wiz Khalifa, Ty Dolla $ign, Madsonik, Kill The Noise
+     Album: Shell Shocked (feat. Kill The Noise & Madsonik) [From "Teenage Mutant Ninja Turtles"]
+     Preview: https://p.scdn.co/mp3-preview/26fa73b8c2e9ce91efb44fad48c5a38b2e48dc11?cid=21ff2fb0d1594b44b2759fdcdd60b77d
+
+10) Or Nah (feat. Wiz Khalifa) - Live from The Village, Los Angeles
+     Artist(s): Ty Dolla $ign, Wiz Khalifa
+     Album: Spotify Session
+     Preview: https://p.scdn.co/mp3-preview/4d7e630288b2ba0edd9678c2c186dcc7db3cfb73?cid=21ff2fb0d1594b44b2759fdcdd60b77d
+
+11) We Could Be Free
+     Artist(s): Vic Mensa, Ty Dolla $ign
+     Album: The Autobiography
+     Preview: null
+
+12) Blessings
+     Artist(s): Chance The Rapper, Ty Dolla $ign, Anderson .Paak, BJ The Chicago Kid, Raury
+     Album: Coloring Book
+     Preview: https://p.scdn.co/mp3-preview/ca5047ad569d9860b850475f22cb482c8240e7a2?cid=21ff2fb0d1594b44b2759fdcdd60b77d
+
+13) Sign of the Times
+     Artist(s): Jasmine Thompson, Sabrina Carpenter
+     Album: Sign of the Times
+     Preview: https://p.scdn.co/mp3-preview/547f1695e87f17b0b8deb67634d4ccadb75d22ae?cid=21ff2fb0d1594b44b2759fdcdd60b77d
+
+14) Hanging Up My Jersey
+     Artist(s): PnB Rock, Ty Dolla $ign
+     Album: GTTM: Goin Thru the Motions
+     Preview: https://p.scdn.co/mp3-preview/d9ded55ec6e478c9b68eb206e9f5714440c2c693?cid=21ff2fb0d1594b44b2759fdcdd60b77d
+
+15) Warning Sign
+     Artist(s): Coldplay
+     Album: A Rush Of Blood To The Head
+     Preview: https://p.scdn.co/mp3-preview/aa7d87a8e2ac9aa7261c7640548a18930572043d?cid=21ff2fb0d1594b44b2759fdcdd60b77d
+
+16) Blasé (feat. Future & Rae Sremmurd) - Louis The Child Remix
+     Artist(s): Ty Dolla $ign, Future, Rae Sremmurd, Louis The Child
+     Album: Blasé (feat. Future & Rae Sremmurd) [Remixes]
+     Preview: https://p.scdn.co/mp3-preview/e5c3f24261752767005a5d10ae251f3a52e84319?cid=21ff2fb0d1594b44b2759fdcdd60b77d
+
+17) One For Me
+     Artist(s): WizKid, Ty Dolla $ign
+     Album: Sounds From The Other Side
+     Preview: https://p.scdn.co/mp3-preview/a4f42926a953f9139d63422e1db9cae47e0449be?cid=21ff2fb0d1594b44b2759fdcdd60b77d
+
+18) All That She Wants
+     Artist(s): Ace of Base
+     Album: The Sign (US Album) [Remastered]
+     Preview: https://p.scdn.co/mp3-preview/b176774bc04182501c2d5d201afda143b1193f31?cid=21ff2fb0d1594b44b2759fdcdd60b77d
+
+19) The Sign
+     Artist(s): Ace of Base
+     Album: Greatest Hits
+     Preview: https://p.scdn.co/mp3-preview/5ca0168d6b58e0f993b2b741af90ecc7c9b16893?cid=21ff2fb0d1594b44b2759fdcdd60b77d
+
+20) Boom
+     Artist(s): Major Lazer, MOTi, Ty Dolla $ign, WizKid, Kranium
+     Album: Peace Is The Mission (Extended)
+     Preview: https://p.scdn.co/mp3-preview/c75296ad381abcd4ad558189e588dd698e3c0eb5?cid=21ff2fb0d1594b44b2759fdcdd60b77d
